@@ -84,7 +84,7 @@ python3 soar.py
 Example Output:
 ```bash
 --- SOAR RESULT ---
-Indicator: 192.168.1.100
+Indicator: 192.168.x.x
 Verdict: ESCALATE — MALICIOUS
 Simulating firewall block...
 ```
